@@ -1,5 +1,7 @@
 Rails.application.routes.draw do
-  root to: "blogs#index"
+
+  root "blogs#top"
+
   resources :sessions
   resources :users
   resources :blogs

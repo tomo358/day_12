@@ -12,6 +12,7 @@
 //
 //= require jquery
 //= require-ujs
+//= require js/grayscale
 //= require popper
 //= require bootstrap-sprockets
 //= require rails-ujs
